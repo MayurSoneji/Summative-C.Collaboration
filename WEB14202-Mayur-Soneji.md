@@ -10,7 +10,7 @@
 
 The creative collaboration project has given me a further understanding of how to work with the different industries.
 
-Week 1 : [What is the biggest challenge with teamwork?](https://medium.com/@m.soneji98/what-is-the-biggest-challenge-with-teamwork-460c19a61ce8) 
+Week 1: [What is the biggest challenge with teamwork?](https://medium.com/@m.soneji98/what-is-the-biggest-challenge-with-teamwork-460c19a61ce8) 
 
 Week 2: [What are some of the current trends around contemporary branding? And why are they trends?](https://medium.com/@m.soneji98/what-are-some-of-the-current-trends-around-contemporary-branding-1c801a05911d) 
 
@@ -24,9 +24,9 @@ Week 6: [What are your strength and weaknesses in relation to completing this pr
 
 Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.](https://medium.com/@m.soneji98/how-are-you-going-to-use-seo-to-extend-the-reach-of-your-image-library-give-some-examples-d846c1819061)
 
-Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.](https://medium.com/@m.soneji98/explore-good-examples-of-good-social-media-marketing-9b024f6e823e)
+Week 8: [Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.](https://medium.com/@m.soneji98/explore-good-examples-of-good-social-media-marketing-9b024f6e823e)
 
-Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.](https://medium.com/@m.soneji98/reflect-on-your-blog-in-week-6-and-write-about-how-your-approach-has-changed-since-then-3cb30afd5259)
+Week 9: [Reflect on your blog in week 6 and write about how your approach has changed since then.](https://medium.com/@m.soneji98/reflect-on-your-blog-in-week-6-and-write-about-how-your-approach-has-changed-since-then-3cb30afd5259)
 
 
 ### Change By Design
