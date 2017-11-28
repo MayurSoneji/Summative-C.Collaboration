@@ -1,4 +1,4 @@
-#Things I have changed on the website from the out of the box template!
+# Things I have changed on the website from the out of the box template!
 
 - Colour scheme
 - Category hover
@@ -10,28 +10,28 @@
 - A hell of a lot of CSS
 
 
-###Colour Scheme
+### Colour Scheme
 The original colour scheme featured white however I changed all the elements with ID’s and classes in the CSS to make it purple which matches the brand.
 
-###Category hover
+### Category hover
 The hover elements helps distinguish the element when looking at all the other static images.
 
-###Fonts
+### Fonts
 I had changed the fonts as there were other fonts in the template. Agreed by myself and Kevin, we had chosen a google font.
 
-###Side Menu
+### Side Menu
 The side menu wasn’t as clean as it is now, it featured over spacing and had no widgets to search through the products and didn’t have indication or link to the checkout.
 
-###Favicon
+### Favicon
 As per branding,  I created a favicon with the ‘P’ since it was the most distinguishable letter.
 
-###Search Widget
+### Search Widget
 I added the search widget through the wordpress back-end panel. Woocommerce had installed the widget however it was inactive. Woocommerce also had their own styling for it which I changed in the CSS.
 
-###Checkout
+### Checkout
 The checkout on the side had a lot of elements which wasn’t needed. There was an express checkout with Paypal but it didn’t match my design, and I do not have an SSL certificate or an API key for checkout. I had to make do with what I had.
 
-###All CSS changes
+### All CSS changes
 Below is all my additional CSS I had changed in order to better the visual representation of the brand.
 
 ~~~~
