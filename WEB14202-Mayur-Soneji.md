@@ -58,7 +58,9 @@ The second part was for an image library where the photography students can sell
 
 - [Website Mockup/Wireframes](https://drive.google.com/drive/folders/0B2VBmeX3V4a4amtnOUFtRGVuMkE?usp=sharing)
 
-- [Formative Presentation](https://docs.google.com/presentation/d/1K3Up3Ua0T5zuiP4isX8w5-iYQAMjswxrjJ0MaD7BIwQ/edit?usp=sharing)
+- [Formative Presentation](https://docs.google.com/presentation/d/1Je46ohv3Tmxv6uG08q-NdFAhjSBjkfV8RxsIdh7GDrA/edit?usp=sharing)
+
+- [Summative Presentation](https://docs.google.com/presentation/d/1K3Up3Ua0T5zuiP4isX8w5-iYQAMjswxrjJ0MaD7BIwQ/edit?usp=sharing)
 
 
 ### Things I have changed in the website
